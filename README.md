@@ -35,6 +35,5 @@ npm run dev
 This is a simple Todo application that was created with Svelte and Sveltestrap.
 
 
-<img src="https://user-images.githubusercontent.com/35552662/136121671-ec07b905-f7d8-417b-9ad4-a3796e2e3fe8.png" alt="todo-app" width="200"/>
-![image](https://user-images.githubusercontent.com/35552662/136121671-ec07b905-f7d8-417b-9ad4-a3796e2e3fe8.png)
+<img src="https://user-images.githubusercontent.com/35552662/136121671-ec07b905-f7d8-417b-9ad4-a3796e2e3fe8.png" alt="todo-app" width="400"/>
 
