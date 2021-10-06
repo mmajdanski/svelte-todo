@@ -3,8 +3,15 @@ _Psst — looking for a more complete solution? Check out [SvelteKit](https://k
 _Looking for a shareable component template instead? Go here --> [sveltejs/component-template](https://github.com/sveltejs/component-template)_
 
 ---
+# Live Demo
+https://mmajdanski.github.io/svelte-todo/
 
-# svelte todo app
+This is a simple Todo application that was created with Svelte and Sveltestrap.
+
+<img src="https://user-images.githubusercontent.com/35552662/136121671-ec07b905-f7d8-417b-9ad4-a3796e2e3fe8.png" alt="todo-app" width="600"/>
+
+
+## svelte todo app
 
 This is a project template for [Svelte](https://svelte.dev) apps. It lives at https://github.com/sveltejs/template.
 
@@ -32,8 +39,4 @@ npm install
 npm run dev
 ```
 
-This is a simple Todo application that was created with Svelte and Sveltestrap.
-
-
-<img src="https://user-images.githubusercontent.com/35552662/136121671-ec07b905-f7d8-417b-9ad4-a3796e2e3fe8.png" alt="todo-app" width="600"/>
 
