@@ -12,6 +12,8 @@ This is a simple Todo application that was created with Svelte and Sveltestrap.
 
 <img src="https://user-images.githubusercontent.com/35552662/136121671-ec07b905-f7d8-417b-9ad4-a3796e2e3fe8.png" alt="todo-app" width="500"/>
 
+Feel free to use different styling from [Tailwind](https://dev.to/matebek/simplest-way-to-set-up-svelte-with-tailwind-css-41bn)
+
 ## svelte todo app
 
 This is a project template for [Svelte](https://svelte.dev) apps. It lives at https://github.com/sveltejs/template.
